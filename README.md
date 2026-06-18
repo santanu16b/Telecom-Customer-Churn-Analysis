@@ -317,25 +317,10 @@ At 47.44% churn, the 0–12 month cohort is where the majority of churn loss occ
 ### Tableau Dashboard
 ![Tableau Dashboard](Tableau%20Dashboard.png)
 
-[View Live on Tableau Public](#) ← replace with your link
+[[View Live on Tableau Public](https://public.tableau.com/app/profile/santanu.banerjee/viz/TelecomCustomerChurnAnalysis_17817754352570/AnalysisDashboard)](#) 
 
 ### Clean Data Preview
 ![Clean Data](Clean%20Data.png)
-
----
-
-## Repository Structure
-
-```
-telecom-churn-analysis/
-│
-├── sql/
-│   └── telco_churn.sql           ← MySQL queries with inline comments
-│
-├── Tableau Dashboard.png         ← dashboard screenshot
-├── Clean Data.png                ← cleaned dataset preview
-└── README.md                     ← this file
-```
 
 ---
 
